@@ -34,3 +34,24 @@
   font-size: 19px;
   font-family: raillyRegular;
 }
+
+.jumbotron h1 {
+  font-size: 60px;
+  text-shadow: 0px 0px 4px red;
+}
+
+.jumbotron h2 {
+  text-decoration: underline;
+}
+
+.LIE {
+  display: inline-block;
+  rotate: 180deg;
+  font-variant: small-caps;
+}
+
+.TRUTH {
+  text-transform: lowercase;
+  font-variant: small-caps;
+  margin-top: 5px;
+}
