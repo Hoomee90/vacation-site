@@ -17,3 +17,20 @@
   font-family: billyHatter;
   src: url(fonts/BillyHatterPesonalUseOnly-9Ydyy.otf);
 }
+
+.card-title {
+  font-family: blackNorth;
+}
+
+ footer {
+  font-family: spookyHallow;
+}
+
+.bg-danger {
+  font-family: billyHatter;
+}
+
+.card-subtitle {
+  font-size: 19px;
+  font-family: raillyRegular;
+}
