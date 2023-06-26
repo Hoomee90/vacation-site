@@ -1,0 +1,19 @@
+@font-face {
+  font-family: blackNorth;
+  src: url(fonts/Blacknorthdemo-mLE25.otf);
+}
+
+@font-face {
+  font-family: spookyHallow;
+  src: url(fonts/SpookyHollow-z84pX.ttf);
+}
+
+@font-face {
+  font-family: raillyRegular;
+  src: url(fonts/RaillyRegular-axXra.otf);
+}
+
+@font-face {
+  font-family: billyHatter;
+  src: url(fonts/BillyHatterPesonalUseOnly-9Ydyy.otf);
+}
